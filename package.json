@@ -1,0 +1,14 @@
+{
+    "name": "m5unit-env3",
+    "version": "1.0.0",
+    "description": "M5Unit ENV-III(SHT30+QMP6988) 温湿度気圧センサ ドライバー",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tac-yacht/m5unit_env3"
+    },
+    "files": [
+        "__init__.py",
+        "env3.py",
+        "sht30.py"
+    ]
+}
