@@ -7,8 +7,8 @@
         "url": "https://github.com/tac-yacht/m5unit_env3"
     },
     "urls": [
-        ["m5unit_env3/__init__.py", "__init__.py"],
-        ["m5unit_env3/env3.py", "env3.py"],
-        ["m5unit_env3/sht30.py", "sht30.py"]
+        ["m5unit_env3/__init__.py", "m5unit_env3/__init__.py"],
+        ["m5unit_env3/env3.py", "m5unit_env3/env3.py"],
+        ["m5unit_env3/sht30.py", "m5unit_env3/sht30.py"]
     ]
 }
